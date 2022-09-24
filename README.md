@@ -1,1 +1,1 @@
-# Python-Lab-Excercises
+# Python-Lab-Exercises
